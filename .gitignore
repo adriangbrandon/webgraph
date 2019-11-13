@@ -1,3 +1,5 @@
 datasets/
 target/
 webgraph.iml
+.DS_store/
+.idea/
