@@ -8,6 +8,11 @@
     <artifactId>tools-webgraph</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <properties>
+        <maven.compiler.source>1.6</maven.compiler.source>
+        <maven.compiler.target>1.6</maven.compiler.target>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>it.unimi.dsi</groupId>
@@ -15,5 +20,5 @@
             <version>3.6.2</version>
         </dependency>
     </dependencies>
-
+	
 </project>
