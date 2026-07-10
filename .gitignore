@@ -3,3 +3,9 @@ target/
 webgraph.iml
 .DS_store/
 .idea/
+*.offsets
+*.properties
+*.graph
+*.obl
+*.adj
+*.bin
